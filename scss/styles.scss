@@ -654,6 +654,13 @@ footer {
     float: left;
 }
 
+.portfolio-project-image {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    object-position: center;
+}
+
 .project-info {
     position: absolute;
     top: 50%;
